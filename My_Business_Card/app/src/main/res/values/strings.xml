@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_Business_Card</string>
+    <string name="name">Gazi Maksudur Rahman</string>
+    <string name="title">Gazi</string>
+    <string name="mail">gazimaksudur2@gmail.com</string>
+    <string name="phone">01903219313</string>
+    <string name="share_address">#Android Basics</string>
+</resources>
